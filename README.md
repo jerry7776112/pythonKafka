@@ -1,6 +1,6 @@
 # pythonKafka
 ## 專案說明
-### 專案名稱: Python & Kafka & 餐點訂單分散式系統設計
+### 專案名稱: Python & Kafka 餐點訂單分散式系統設計
 **詳情請參閱[pythonKafka.pdf](https://github.com/jerry7776112/pythonKafka/blob/main/pythonKafka.pdf)**
 ### 實作說明
 * 使用Python & Kafka 模擬設計一個高擴展性的食物訂單系統
